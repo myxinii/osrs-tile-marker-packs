@@ -1,0 +1,9 @@
+[
+    {"regionId":11321,"regionX":11,"regionY":44,"z":0,"color":"#FF009500","label":"N: Weiss"},
+    {"regionId":11325,"regionX":32,"regionY":27,"z":0,"color":"#FF009500","label":"N: Hosidius"},
+    {"regionId":6967,"regionX":12,"regionY":32,"z":0,"color":"#FF009500","label":"N: Civitas"},
+    {"regionId":6192,"regionX":57,"regionY":26,"z":0,"color":"#FF009500","label":"N: Ardy"},
+    {"regionId":10548,"regionX":48,"regionY":52,"z":0,"color":"#FF009500","label":"N: Cabbage"},
+    {"regionId":12083,"regionX":45,"regionY":40,"z":0,"color":"#FF009500","label":"N: Catherby"},
+    {"regionId":11062,"regionX":63,"regionY":9,"z":0,"color":"#FF009500","label":"N: Mory"}
+]
