@@ -1,0 +1,16 @@
+[
+    {"regionId":11317,"regionX":45,"regionY":39,"z":0,"color":"#FF009500","label":"N: [F] Brimhaven"},
+    {"regionId":11058,"regionX":14,"regionY":12,"z":0,"color":"#FF009500","label":"N: [C] Tai Bwo Wannai"},
+    {"regionId":11056,"regionX":43,"regionY":31,"z":0,"color":"#FF009500","label":"N: [FT] Gnome Stronghold"},
+    {"regionId":9781,"regionX":42,"regionY":53,"z":0,"color":"#FF009500","label":"N: [F] Gnome Village"},
+    {"regionId":9781,"regionX":5,"regionY":25,"z":0,"color":"#FF009500","label":"N: [F] Gnome Village OR [T] Nemus (Quetz to Gorge -> Guide)"},
+    {"regionId":9777,"regionX":58,"regionY":45,"z":0,"color":"#FF009500","label":"N: [F] Lletya"},
+    {"regionId":9265,"regionX":41,"regionY":26,"z":0,"color":"#FF009500","label":"N: [FC] Kastori (Quetz)"},
+    {"regionId":5423,"regionX":6,"regionY":47,"z":0,"color":"#FF009500","label":"N: [T] Nemus (Quetz to Gorge -> Guide)"},
+    {"regionId":5427,"regionX":22,"regionY":55,"z":0,"color":"#FF009500","label":"N: [T] Lumbridge"},
+    {"regionId":12594,"regionX":58,"regionY":29,"z":0,"color":"#FF009500","label":"N: [T] Varrock"},
+    {"regionId":12854,"regionX":28,"regionY":1,"z":0,"color":"#FF009500","label":"N: [T] Falador"},
+    {"regionId":11828,"regionX":58,"regionY":46,"z":0,"color":"#FF009500","label":"N: [T] Taverly"},
+    {"regionId":11573,"regionX":55,"regionY":44,"z":0,"color":"#FF009500","label":"N: [3H] Fossil Island"},
+    {"regionId":14651,"regionX":60,"regionY":60,"z":0,"color":"#FF009500","label":"N: [H] Avium Savanah"}
+]
